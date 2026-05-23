@@ -1,0 +1,51 @@
+aid: clue-app
+url: https://raw.githubusercontent.com/api-evangelist/clue-app/refs/heads/main/apis.yml
+name: Clue (BioWink)
+type: Index
+kind: company
+description: >-
+  Clue, operated by BioWink GmbH in Berlin, Germany, is a science-driven
+  menstrual, ovulation, pregnancy, and reproductive health tracking app with
+  100M+ downloads across 190+ countries. The product portfolio spans Clue
+  (free tier), Clue Plus (subscription), Clue Conceive, Clue Pregnancy, Clue
+  Perimenopause, and a "Clue (No Period)" mode for non-bleeding hormonal
+  cycles. Clue Connect provides partner sharing. The company contributes
+  anonymized real-world data to academic research partnerships with Stanford,
+  University of Oxford, UC Berkeley, MIT, and the Bill & Melinda Gates
+  Foundation. Clue is a consumer mobile product; no public developer API or
+  partner API portal has been identified. This entry catalogs the company
+  surface for the API Evangelist index.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Femtech
+  - Women's Health
+  - Reproductive Health
+  - Period Tracker
+  - Cycle Tracking
+  - Fertility
+  - Pregnancy
+  - Perimenopause
+  - Research Data
+  - Consumer App
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://helloclue.com/
+  - type: PrivacyPolicy
+    url: https://helloclue.com/privacy
+  - type: Careers
+    url: https://helloclue.com/careers
+  - type: Support
+    url: https://support.helloclue.com/hc/en-us
+  - type: Research
+    url: https://helloclue.com/articles/about-clue/clues-scientific-research
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/biowink-gmbh
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
