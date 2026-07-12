@@ -34,6 +34,10 @@ tags:
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/clue-app-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/clue-app-domain-security.yml
   - type: Website
     url: https://helloclue.com/
   - type: PrivacyPolicy
